@@ -40,8 +40,8 @@
 
 ### Contato
 
-<a href="https://www.linkedin.com/in/matheus-oliveira-116467296/" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/ana-clara-fontineles-bb96b22a5" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-<a href="mailto:matheusoliveirale2007@gmail.com" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="mailto:anaclarafontinelescosta@gmail.com" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 <br>
