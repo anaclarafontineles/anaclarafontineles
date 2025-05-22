@@ -5,7 +5,7 @@
 
 <div style="width: 100vw; display: flex">
 
-### Estatísticas
+<!--### Estatísticas
 <a href="https://github.com/anaclarafontineles/github-readme-stats">
     <img 
     align="left"
@@ -15,7 +15,7 @@
 
 <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathessoliv&layout=compact&theme=tokyonight">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathessoliv&layout=compact&theme=tokyonight">//-->
 
 
 </div>
