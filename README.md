@@ -38,7 +38,7 @@
 
 <hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
 
-### Contato
+### Contatos
 
 <a href="https://www.linkedin.com/in/ana-clara-fontineles-bb96b22a5" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
