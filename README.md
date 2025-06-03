@@ -1,47 +1,59 @@
-<h1 align="center">Olá 👋, Eu sou a Ana Clara </h1>
-<h3 align="center">Desenvolvedora apaixonada por tecnologia e inovação!</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+</p>
 
-<hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
+<h1 align="center">🌸 Olá, eu sou a Ana Clara! 👋</h1>
+<h3 align="center">💻 Desenvolvedora apaixonada por tecnologia, criatividade e inovação 💡</h3>
 
-<div style="width: 100vw; display: flex">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=AA00FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Explorando+o+mundo+da+programa%C3%A7%C3%A3o+com+amor+💖" alt="Typing SVG" />
+</p>
 
-<!--### Estatísticas
-<a href="https://github.com/anaclarafontineles/github-readme-stats">
-    <img 
-    align="left"
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=mathessoliv&show_icons=true&theme=tokyonight" >
-</a>
+<hr style="height: 3px; border: none; background-color: #800080; margin-top: 20px;">
 
-<img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathessoliv&layout=compact&theme=tokyonight">//-->
+## 🛠️ Tecnologias e Ferramentas
 
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin: 10px; filter: invert(1);"/>
 </div>
 
-### Tecnologias
+<br>
 
-<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## ✨ Minhas Estatísticas
 
-<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img width="30" align="left" style="padding-right: 40px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anaclarafontineles&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarafontineles&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36"/>
+</div>
 
 <br>
 
-<hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
+## 🌈 Sobre Mim
 
-### Contatos
+✨ Amo criar experiências digitais encantadoras.  
+🎨 Buscando sempre unir tecnologia com criatividade.  
+📚 Estudando constantemente para evoluir como dev.  
+🌍 Sonho em impactar positivamente o mundo com código!
 
-<a href="https://www.linkedin.com/in/ana-clara-fontineles-bb96b22a5" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<hr style="height: 3px; border: none; background-color: #ff79c6; margin-top: 20px;">
 
-<a href="mailto:anaclarafontinelescosta@gmail.com" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+## 📬 Contatos
 
-<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ana-clara-fontineles-bb96b22a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anaclarafontinelescosta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+</p>
