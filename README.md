@@ -45,7 +45,7 @@
 ---
 
 ## 🚀 Projetos em Destaque  
-🔹 [STEM Girls](https://github.com/anaclarafontineles/stem-girls) — Website para incentivar a participação de mulheres na TI.  
+🔹 [STEM Girls](https://github.com/STEM-Girls-Fatec-Ipiranga) — Website para incentivar a participação de mulheres na TI.  
 🔹 [Meu Portfólio](https://github.com/anaclarafontineles/portfolio) — Criando experiências digitais únicas.  
 
 ---
